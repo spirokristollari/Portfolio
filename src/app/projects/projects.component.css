@@ -1,0 +1,15 @@
+.container {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    display: grid;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#button {
+    margin-left: 20px;
+}
+
+img {
+    padding: 10px;
+}

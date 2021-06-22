@@ -1,0 +1,13 @@
+.cont {
+    color: blanchedalmond;
+    
+    display: grid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+img {
+    height: 40px;
+    width: 60px;
+}
